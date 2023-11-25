@@ -8,7 +8,7 @@ You usally wont have to do this, but i would recommend to disable anti virus.
 
 Discord: https://discord.gg/KP8QUSWgUv
 
-Link: https://mega.nz/folder/Zm0TxC6T#Sxd_mRtKsGEW_DYtvDA4nw
+Link: https://mega.nz/folder/FjNQBJSD#ciQxv-doq_UDdLYy5_ZRjg
 
 
 Changed name to Thunda Logger!
